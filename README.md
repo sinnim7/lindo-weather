@@ -2,11 +2,15 @@
 
 React Native by building a Lindo Weather App
 
-![permission](./images/permission.jpg)
+---스크린샷---
+
+![permission-location](./images/permission-location.jpg)
 위치 정보 승인 화면
 
-![loading](./images/loading.jpg)
+
+![loadinginging](./images/loadinginging.jpg)
 로딩 화면
 
-![weather](./images/weather.jpg)
+
+![weatherinfo](./images/weatherinfo.jpg)
 날씨 화면
