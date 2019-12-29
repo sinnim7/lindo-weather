@@ -2,6 +2,10 @@
 
 React Native by building a Lindo Weather App
 
+---expo---
+https://expo.io/@sinnim7/lindo-weather
+
+
 ---스크린샷---
 
 ![permission-location](./images/permission-location.jpg)
